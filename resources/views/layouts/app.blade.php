@@ -10,7 +10,14 @@
 </head>
 
 <body>
-    <h1 class="text-3xl font-bold underline ">tesst</h1>
+    <div class="main">
+        <div class="gradient"></div>
+    </div>
+
+    <main class="app">
+        <nav>test</nav>
+        <h1>test1</h1>
+    </main>
 </body>
 
 </html>
