@@ -13,10 +13,10 @@
     <div class="main">
         <div class="gradient"></div>
     </div>
-
     <main class="app">
-        <nav>test</nav>
-        <h1>test1</h1>
+        @include('layouts.navbar')
+        <p></p>
+        @yield('content')
     </main>
 </body>
 
